@@ -1,4 +1,4 @@
-# Qt Download Function Forr Ring Programming Language
+# Qt Download Function For Ring Programming Language
 ## install :
     ringpm install qtdownload from mohannad-aldulaimi
 
@@ -66,3 +66,5 @@
             ok
         } 
     ])
+
+## Author : Mohannad Alayash (mohannadazazalayash@gmail.com)
