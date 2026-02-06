@@ -1,6 +1,6 @@
 load "guilib.ring"  # Required for QApp and Network classes
 load "jsonlib.ring"  # Required for json2list function
-
+load 'qtdownload.ring'
 see "------------------------------------------------" + nl
 see " Starting NHTSA Car API Test..." + nl
 see " Endpoint: https://vpic.nhtsa.dot.gov/api/" + nl
